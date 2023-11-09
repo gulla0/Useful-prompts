@@ -1,0 +1,25 @@
+**Prompt for creating a decision flow for your code:**
+//
+Generate a textual flow diagram for the following code:
+
+[Your Code Here]
+
+Please follow the format below for the diagram:
+
+[Start] -> [Initial Operation]
+    |
+    v
+[Decision/Action] -> [Consequence/Next Action]
+    |
+    v
+[... Repeat for subsequent actions and decisions ...]
+
+Finish with:
+    |
+    v
+[End of program]
+
+Provide clear indications of where each piece of code corresponds to the flow steps, including any relevant conditional logic or loops. 
+
+Thank you!
+//
