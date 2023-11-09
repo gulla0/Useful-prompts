@@ -23,3 +23,28 @@ Provide clear indications of where each piece of code corresponds to the flow st
 
 Thank you!
 //
+
+**Prompt for creating maximum detail decision flow:**
+//
+Create a textual flow diagram based on the following C code:
+
+[Code block to be analyzed]
+
+Please use the format below for the diagram:
+
+[Start] -> [Description of Initial Operation]
+    |-> Code Snippet: [Related code here]
+    |
+    v
+[Decision/Action] -> [Consequence/Next Action]
+    |-> Code Snippet: [Related code here]
+    |
+    v
+[... Repeat for subsequent actions and decisions ...]
+    |-> Code Snippet: [Related code here]
+    |
+    v
+[End of program]
+
+Include all loops and decision-making processes with corresponding arrows and descriptions, and provide clear indications of where each piece of code corresponds to the flow steps, including any relevant conditional logic or loops.
+//
