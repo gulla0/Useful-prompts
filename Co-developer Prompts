@@ -3,3 +3,37 @@
 I'll say 'y' after each step is done. Just give me code to paste and tell me exactly where to paste."
 
 Usage: When the AI is giving you a bunch of steps and complex advice.
+
+
+//SESSION CONTINUATION PROMPT TEMPLATE:
+"
+Subject: Assistance with Blockchain Indexer Development Using Go Maestro APIs and OpenAI Integration
+
+Description:
+Hello, I am working on a project that involves developing a blockchain indexer using Go Maestro APIs. My goal is to integrate this with the OpenAI API for processing natural language queries. I am currently at a stage where [describe your current progress or the specific issue you're facing].
+
+Task at Hand:
+I am focusing on [describe the specific task or functionality you're working on]. This could involve error handling, user query interpretation, or any other aspect of the project.
+
+Current Code:
+Here is the relevant part of my code that I am currently working on or having issues with:
+
+javascript
+Copy code
+// [Insert your code snippet or describe the code section you're referring to]
+Specific Requirements:
+
+[List any specific requirements or functionalities you need help with]
+[Mention any particular approach or coding style preferences you have]
+Request for Guidance:
+I need clear, concise, and actionable steps for each part of the development process. I would like to proceed with one step at a time and will confirm with 'y' after completing each step.
+
+Additional Context:
+
+I am not deeply familiar with all the tools and libraries that might be needed for this project. Please guide me on any necessary downloads or installations.
+I am using [mention any libraries, frameworks, or tools you have already installed or are familiar with, if any].
+"
+
+Usage: When a specific Chat session is used for a long time, it gets slow. To start a new chat session and continue from where you left off.
+
+
