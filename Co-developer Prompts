@@ -37,3 +37,13 @@ I am using [mention any libraries, frameworks, or tools you have already install
 Usage: When a specific Chat session is used for a long time, it gets slow. To start a new chat session and continue from where you left off.
 
 
+//SESSION CONTINUATION BIG PICTURE PROMPT 
+"
+The basic idea is to send an api call to open ai with user query, it returns the correct end point to use with Go Maestro.
+Go Maestro receives the call and gives blockchain data.
+The blockchain data along with the original query is sent to openai api again to receive the answer to the query and sent it to the user.
+"
+
+Usage: Just to remind (co-pilot) what I was trying to do in the first place.
+
+
