@@ -1,3 +1,9 @@
+//SOON FEEDER PROMPT TO MAKE AI ASK FOR CODE:
+"Ask me for code one file at a time as needed to make the changes.
+I'll say 'y' after each step if successful or share the issue. Just give me code to paste and tell me where exactly to paste."
+
+Usage: When you have already established the context with the AI and you need the AI to ask for code to make changes.
+
 //SPOON FEEDER PROMPT:
 "Now, please give me one simple, concise, actionable step at a time to solve this. 
 I'll say 'y' after each step is done. Just give me code to paste and tell me exactly where to paste."
