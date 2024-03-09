@@ -53,3 +53,10 @@ The blockchain data along with the original query is sent to openai api again to
 Usage: Just to remind (co-pilot) what I was trying to do in the first place.
 
 
+//PUSH CODE FROM LOCAL REPO TO GITHUB
+"
+I want to push my changes from local repo to github. Please give me one step at a time and i'll say 'y' after I'm done with each step or share my issue.
+"
+
+Usage: Guides you one step at a time to push your code to Github. (Assuming you already have a Github repo setup and connected to local repo)
+
