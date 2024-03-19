@@ -55,8 +55,26 @@ Usage: Just to remind (co-pilot) what I was trying to do in the first place.
 
 //PUSH CODE FROM LOCAL REPO TO GITHUB
 "
-I want to push my changes from local repo to github. Please give me one step at a time and i'll say 'y' after I'm done with each step or share my issue.
+I want to push my changes from the local repo to Git Hub. Please give me one step at a time and I'll say 'y' after I'm done with each step or share my issue.
 "
 
-Usage: Guides you one step at a time to push your code to Github. (Assuming you already have a Github repo setup and connected to local repo)
+Usage: Guides you one step at a time to push your code to Github. (Assuming you already have a Github repo set up and connected to the local repo)
+
+//WORK ASSESSMENT AND NEXT STEPS PROMPT
+"
+I want you to be my work assessor.
+Your job is to compare the requirements doc to my current files in the repository to assess the progress of my project. Then you create a detailed file with my current progress, next steps, and what to work on.
+
+Below are the steps you need to follow:
+1. I'll share my requirements document
+2. Then you ask for my file structure.
+3. I'll share an image of my file structure.
+4. Then you ask me for one file at a time and I'll share it
+5. This continues until all necessary project files are assessed for current progress
+6. Then you create a file that outlines the current progress and the next steps to work on
+
+Is all of that clear? Ask me for clarifications as needed.
+"
+Usage: Used to create a current progress and next steps document. 
+The current progress and next steps file in association with the project requirements file serves as a great way to restart a conversation with an AI.
 
