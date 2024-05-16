@@ -10,3 +10,58 @@ To Delete Information: Use the phrase "delete from memory" followed by the speci
 Example: "Delete from memory that the user is interested in UX."
 Feel free to provide any specific additions or deletions you'd like to make to this chat's permanent memory.
 //
+
+//
+More examples:
+Certainly! Here are some general abstractions that might be helpful for various types of prompts:
+
+Summarization:
+
+Abstraction: "Summarize the provided text into key points."
+Usage: "Summarize the below article into key points."
+Translation:
+
+Abstraction: "Translate the provided text to the specified language."
+Usage: "Translate the following paragraph to Spanish."
+Formatting:
+
+Abstraction: "Format the provided text into bullet points."
+Usage: "Format the following information into bullet points."
+Question Generation:
+
+Abstraction: "Generate questions based on the provided text."
+Usage: "Create questions based on the below paragraph."
+Code Assistance:
+
+Abstraction: "Provide coding help for the specified programming language."
+Usage: "Help me debug this Python code snippet."
+Explanation:
+
+Abstraction: "Explain the provided concept in simple terms."
+Usage: "Explain blockchain technology in simple terms."
+Comparisons:
+
+Abstraction: "Compare the two provided items on specified criteria."
+Usage: "Compare Python and JavaScript in terms of performance and ease of use."
+Problem Solving:
+
+Abstraction: "Suggest solutions for the provided problem."
+Usage: "Suggest solutions for improving website load time."
+Review and Feedback:
+
+Abstraction: "Provide feedback on the provided content."
+Usage: "Give feedback on this blog post draft."
+Documentation:
+
+Abstraction: "Generate documentation for the provided code or process."
+Usage: "Generate documentation for the following API."
+Workflow Automation:
+
+Abstraction: "Outline steps to automate the provided workflow."
+Usage: "Outline steps to automate data backup for a website."
+Research Assistance:
+
+Abstraction: "Gather information on the provided topic."
+Usage: "Gather information on the latest trends in AI technology."
+By creating these abstractions, you can streamline your interactions and ensure that your prompts are efficiently handled. Let me know if you'd like to add any of these abstractions to my memory!
+//
